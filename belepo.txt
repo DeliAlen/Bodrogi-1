@@ -1,0 +1,2 @@
+git config --global user.email "e-mail cím"
+git config --global user.name "github név"
